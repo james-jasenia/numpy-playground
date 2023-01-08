@@ -1,5 +1,5 @@
 ## General Methods
-#### Craeation:
+#### Creation:
 - `np.random.rand()`
 - `np.random.randint()`
 - `np.array([x, y, z])` - Init method
